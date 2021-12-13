@@ -1,2 +1,4 @@
 # PaymentContext
-treinando git e back end com c#
+Criando um Contexto de pagamento com a ajuda do balta
+Explicação:
+-Shared: são itens para compartilhar entre domains(dominios) obs: usado quando se tem multiplos dominios-
