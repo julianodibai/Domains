@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a962c30ec39fd422e5687ba031418d127a0c3234
 using System;
 
 namespace PaymentContext.Shared.Entities
